@@ -22,3 +22,35 @@ Some applications of data structures used in the disciplines of algorithm and da
   
   
 * **Tree:**  A tree is a collection of nodes connected by directed (or undirected) edges. A tree is a nonlinear data structure, compared to arrays, linked lists, stacks and queues which are linear data structures. A tree can be empty with no nodes or a tree is a structure consisting of one node called the root and zero or one or more subtrees;
+
+### Sorting algorithms:
+Basically, a sorting algorithm puts an array in order, that is, it sorts a vector
+
+* **Bubble sort:** this algorithm performs pairwise comparisons, that is, it repeats this process until the entire vector is ordered. So, it works well for small arrays, but it has a very high complexity, that is, a lot of computational cost;
+  * **Complexity:** O(n²);
+
+* **Insertion sort:** the array elements are compared with each other sequentially and then arranged simultaneously in some particular order;
+  * **Complexity:** O(n²);
+
+* **Mergesort:** a sort algorithm that splits the items to be sorted into two groups, recursively sorts each group, and merges them into a final, sorted sequence;
+  * **Complexity:** O(n log n);
+
+* **Quicksort:** like merge sort, quick sort is a divide and conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot;
+  * **Complexity:** O(n²);
+
+* **Heapsort:** heap sort is a comparison-based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the minimum element and place the minimum element at the beginning. We repeat the same process for the remaining elements;
+  * **Complexity:** O(n log n);
+
+* **Binary search tree:** can be defined as a class of binary trees, in which the nodes are arranged in a specific order;
+  * **Complexity:** O(n);
+
+* **AVL tree:**  a self-balancing Binary Search Tree where the difference between heights of left and right subtrees cannot be more than one for all nodes;
+  * **Complexity:** O(n);
+
+* **Red-black tree:** a kind of self-balancing binary search tree where each node has an extra bit, and that bit is often interpreted as the colour (red or black). These colours are used to ensure that the tree remains balanced during insertions and deletions;
+  * **Complexity:** O(log n);
+
+* **Hash table:** hashing is a technique or process of mapping keys, values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used;
+  * **Complexity:** O(n);
+
+
