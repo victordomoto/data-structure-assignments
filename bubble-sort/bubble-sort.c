@@ -1,3 +1,7 @@
+/* Nome: Victor Akio Domoto    */
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
