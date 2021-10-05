@@ -1,12 +1,9 @@
 /* Nome: Victor Akio Domoto    */
 /* AEDII - UNIFESP             */
 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
-//funcao principal
 int main(){
     //quantNum = tamanho do vetor
     int quantNum, i, cont;
