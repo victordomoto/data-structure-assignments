@@ -1,6 +1,5 @@
 /* Nome: Victor Akio Domoto                  */
 /* Atividade 12 - JUDGE - ARVORE RUBRO NEGRA */
-/* RA: 150546                                */
 
 #include<stdio.h>
 #include<stdlib.h>

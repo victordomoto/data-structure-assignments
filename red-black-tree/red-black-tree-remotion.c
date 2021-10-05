@@ -1,5 +1,5 @@
 /* Nome: Victor Akio Domoto                  */
-/* Atividade 12 - JUDGE - ARVORE RUBRO NEGRA */
+/* Atividade 12 - REMOÇÃO ÁRVORE RUBRO NEGRA */
 /* AEDII - UNIFESP                           */
 
 #include<stdio.h>

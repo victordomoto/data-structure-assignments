@@ -1,3 +1,5 @@
+/*Nome: Victor Akio Domoto*/
+/*AEDI - UNIFESP          */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

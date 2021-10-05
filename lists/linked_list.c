@@ -1,3 +1,6 @@
+/*Nome: Victor Akio Domoto  */
+/*AED1 - UNIFESP            */
+
 #define max 50000
 #include <stdio.h>
 #include <string.h>
