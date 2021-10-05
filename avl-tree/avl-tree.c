@@ -289,7 +289,6 @@ int main()
   }
   printf("%d, %d, %d", heightAvlTree(avl)-1, heightLeftAvlTree(avl)-1, heightRightAvlTree(avl)-1);
   printf("\n");
-  //emOrdem_ArvAVL(avl);
 
   //inserindo o vetor 2 na arvore, caso satisfaca as condicoes:
   for(i = 0; i<cont2; i++){
