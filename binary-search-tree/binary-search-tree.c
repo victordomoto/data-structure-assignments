@@ -266,15 +266,6 @@ int main(){
     }
     else
         heightSubTree(raiz,n);
-    /*
-    printf("\n");
-    emOrdem_ArvBin(raiz);
-    */
-   /*
-   printf("\n");
-   printf("contagens: %d %d", cont1, cont2);
-   */
-    
 
 return 0;
 }
